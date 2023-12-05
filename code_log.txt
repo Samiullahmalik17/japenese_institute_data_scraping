@@ -1,0 +1,2 @@
+2023-Dec-04-22:23:00 : Preliminaries complete. Initiating ETL process
+2023-Dec-04-22:23:03 : Data saved to CSV file
